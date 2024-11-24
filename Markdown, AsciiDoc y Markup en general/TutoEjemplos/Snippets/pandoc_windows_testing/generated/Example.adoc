@@ -1,0 +1,9 @@
+== Example
+
+=== This is an example Document
+
+* That uses markdown
+[arabic]
+. With some
+. Simple features
+* Just _to_ *check* some `+common+` options

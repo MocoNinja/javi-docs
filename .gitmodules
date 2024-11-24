@@ -1,0 +1,3 @@
+[submodule "documentacion-y-notas"]
+	path = documentacion-y-notas
+	url = git@gitlab.com:MocoNinja/documentacion-y-notas.git
